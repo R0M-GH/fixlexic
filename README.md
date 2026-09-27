@@ -18,7 +18,10 @@ normal:
 
 with fixlexic:
 
-> <b>Read</b>ing <b>ge</b>ts <b>wa</b>y <b>eas</b>ier <b>wh</b>en <b>yo</b>ur <b>ey</b>es <b>ha</b>ve <b>somet</b>hing <b>t</b>o <b>gr</b>ab <b>on</b>to <b>a</b>t <b>th</b>e <b>sta</b>rt <b>o</b>f <b>eve</b>ry <b>wo</b>rd. <b>Yo</b>ur <b>bra</b>in <b>fil</b>ls <b>i</b>n <b>th</b>e <b>re</b>st <b>bef</b>ore <b>yo</b>u <b>ev</b>en <b>not</b>ice.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sample-dark.png">
+  <img src="assets/sample-light.png" alt="the same sentence with the start of every word bolded" width="720">
+</picture>
 
 you can change how much of each word gets bolded and how heavy it is:
 
